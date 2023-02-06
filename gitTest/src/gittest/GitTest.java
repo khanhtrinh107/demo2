@@ -16,6 +16,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("OK");
         System.out.println("xin chao bro!");
+        int a = 1 , b = 2;
+        System.out.println("a +  b = " + (a + b));
     }
     
 }
