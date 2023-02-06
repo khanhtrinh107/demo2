@@ -24,7 +24,11 @@ public class GitTest {
         ///asdasdas
         System.out.println("test2");
         //@@@
+
+        System.out.println("tsr");
+
         System.out.println("test main 2");
+
     }
     
 }
