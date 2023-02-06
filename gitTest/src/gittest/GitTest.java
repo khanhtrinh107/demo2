@@ -22,7 +22,8 @@ public class GitTest {
 
         System.out.println("test-branch");
         ///asdasdas
-
+        System.out.println("test2");
+        //@@@
     }
     
 }
