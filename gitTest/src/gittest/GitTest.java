@@ -17,18 +17,18 @@ public class GitTest {
         System.out.println("OK");
         System.out.println("xin chao bro!");
 
-        int a = 1 , b = 2;
+        int a = 1, b = 2;
         System.out.println("a +  b = " + (a + b));
 
         System.out.println("test-branch");
-        ///asdasdas
+        /// asdasdas
         System.out.println("test2");
-        //@@@
+        // @@@
         System.out.println("HEHEHE");
         System.out.println("tsr");
 
         System.out.println("test main 2");
-
+        System.out.println("test heheh");
     }
-    
+
 }
