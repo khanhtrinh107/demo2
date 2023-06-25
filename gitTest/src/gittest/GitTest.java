@@ -29,6 +29,8 @@ public class GitTest {
 
         System.out.println("test main 2");
 
+        System.out.println("test stash 2");
+
     }
 
 }
