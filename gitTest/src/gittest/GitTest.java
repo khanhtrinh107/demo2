@@ -27,7 +27,6 @@ public class GitTest {
         System.out.println("HEHEHE");
         System.out.println("tsr");
 
-        System.out.println("okkokoko");
-    }
+
 
 }
