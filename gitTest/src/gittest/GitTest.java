@@ -27,14 +27,7 @@ public class GitTest {
         System.out.println("HEHEHE");
         System.out.println("tsr");
 
-        System.out.println("test main 2");
-<<<<<<< Updated upstream
-        System.out.println("test heheh");
-=======
-
-        System.out.println("test stash 2");
-
->>>>>>> Stashed changes
+        System.out.println("okkokoko");
     }
 
 }
