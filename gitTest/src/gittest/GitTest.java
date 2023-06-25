@@ -27,10 +27,6 @@ public class GitTest {
         System.out.println("HEHEHE");
         System.out.println("tsr");
 
-        System.out.println("test main 2");
 
-        System.out.println("test stash 2");
-
-    }
 
 }
